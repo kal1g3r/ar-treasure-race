@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="restartmarker" size="15.000000 14.470803" />
+    <ImageTarget name="trapmarker" size="15.000000 14.633252" />
+    <ImageTarget name="movemarker" size="15.000000 14.205776" />
+    <ImageTarget name="healmarker" size="15.000000 14.437727" />
+    <ImageTarget name="rollmarker" size="15.000000 14.305725" />
+    <ImageTarget name="boardmarker" size="15.000000 14.208444" />
+  </Tracking>
+</QCARConfig>
